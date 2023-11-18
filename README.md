@@ -3,7 +3,7 @@ This JavaFX application, named "Information," serves as a simple form for enteri
 
 # Input Form:
 Collects information such as name, address, province, city, postal code, phone number, and email.
-Includes checkboxes for student council and volunteer work.
+Includes activities checkboxes for student council and volunteer work.
 Allows the user to select from a set of computer science or business courses using radio buttons and a combo box.
 # User Interface:
 Utilizes JavaFX layout elements such as GridPane, VBox, and HBox to organize the input form.
